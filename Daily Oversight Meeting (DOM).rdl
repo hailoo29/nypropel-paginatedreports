@@ -6898,13 +6898,13 @@ ORDER BY
       <Width>15in</Width>
       <Page>
         <PageHeader>
-          <Height>0.49333in</Height>
+          <Height>0.65in</Height>
           <PrintOnFirstPage>true</PrintOnFirstPage>
           <PrintOnLastPage>true</PrintOnLastPage>
           <ReportItems>
             <Textbox Name="Textbox1">
               <rd:DefaultName>Textbox1</rd:DefaultName>
-              <CanGrow>true</CanGrow>
+              <CanGrow>false</CanGrow>
               <KeepTogether>true</KeepTogether>
               <Paragraphs>
                 <Paragraph>
@@ -6913,16 +6913,16 @@ ORDER BY
                       <Value>Daily Oversight Meeting</Value>
                       <Style>
                         <FontWeight>Bold</FontWeight>
-                      </Style>
+                      <FontSize>22pt</FontSize></Style>
                     </TextRun>
                   </TextRuns>
                   <Style />
                 </Paragraph>
               </Paragraphs>
-              <Top>0.11in</Top>
+              <Top>0.08in</Top>
               <Left>0.175in</Left>
-              <Height>0.25in</Height>
-              <Width>1.7in</Width>
+              <Height>0.32in</Height>
+              <Width>6.2in</Width>
               <Style>
                 <Border>
                   <Style>None</Style>
@@ -6933,7 +6933,7 @@ ORDER BY
                 <PaddingBottom>2pt</PaddingBottom>
               </Style>
             </Textbox>
-          </ReportItems>
+          <Textbox Name="TextboxAsOfDate"><rd:DefaultName>TextboxAsOfDate</rd:DefaultName><CanGrow>false</CanGrow><KeepTogether>true</KeepTogether><Paragraphs><Paragraph><TextRuns><TextRun><Value>="As of: " &amp; Format(Today(), "MM/dd/yyyy")</Value><Style><FontWeight>Bold</FontWeight><FontSize>12pt</FontSize></Style></TextRun></TextRuns><Style><TextAlign>Right</TextAlign></Style></Paragraph></Paragraphs><Top>0.12in</Top><Left>11.35in</Left><Height>0.25in</Height><Width>3.4in</Width><Style><Border><Style>None</Style></Border><PaddingLeft>2pt</PaddingLeft><PaddingRight>2pt</PaddingRight><PaddingTop>2pt</PaddingTop><PaddingBottom>2pt</PaddingBottom></Style></Textbox></ReportItems>
           <Style />
         </PageHeader>
         <LeftMargin>0.5in</LeftMargin>
