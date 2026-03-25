@@ -682,7 +682,7 @@ ORDER BY
               </Border>
               <BackgroundColor>#C00000</BackgroundColor>
             </Style>
-          <Left>0in</Left></Rectangle>
+          <Left>0.5in</Left></Rectangle>
           <Tablix Name="Tablix_ds_PastDue">
             <TablixBody>
               <TablixColumns>
@@ -1526,7 +1526,7 @@ ORDER BY
             <Height>0.5in</Height>
             <Width>15in</Width>
             <Style />
-          <Left>0in</Left><PageBreak><BreakLocation>End</BreakLocation></PageBreak><PageName>Past Due</PageName></Tablix>
+          <Left>0.5in</Left><PageBreak><BreakLocation>End</BreakLocation></PageBreak><PageName>Past Due</PageName></Tablix>
           <Rectangle Name="Rectangle_ds_DueToday">
             <ReportItems>
               <Textbox Name="TextboxHeader_ds_DueToday">
@@ -1576,7 +1576,7 @@ ORDER BY
               </Border>
               <BackgroundColor>#ED7D31</BackgroundColor>
             </Style>
-          <Left>0in</Left></Rectangle>
+          <Left>0.5in</Left></Rectangle>
           <Tablix Name="Tablix_ds_DueToday">
             <TablixBody>
               <TablixColumns>
@@ -2420,7 +2420,7 @@ ORDER BY
             <Height>0.5in</Height>
             <Width>15in</Width>
             <Style />
-          <Left>0in</Left><PageBreak><BreakLocation>End</BreakLocation></PageBreak><PageName>Items Due Today</PageName></Tablix>
+          <Left>0.5in</Left><PageBreak><BreakLocation>End</BreakLocation></PageBreak><PageName>Items Due Today</PageName></Tablix>
           <Rectangle Name="Rectangle_ds_DueTomorrow">
             <ReportItems>
               <Textbox Name="TextboxHeader_ds_DueTomorrow">
@@ -2470,7 +2470,7 @@ ORDER BY
               </Border>
               <BackgroundColor>#FFC000</BackgroundColor>
             </Style>
-          <Left>0in</Left></Rectangle>
+          <Left>0.5in</Left></Rectangle>
           <Tablix Name="Tablix_ds_DueTomorrow">
             <TablixBody>
               <TablixColumns>
@@ -3314,7 +3314,7 @@ ORDER BY
             <Height>0.5in</Height>
             <Width>15in</Width>
             <Style />
-          <Left>0in</Left><PageBreak><BreakLocation>End</BreakLocation></PageBreak><PageName>Items Due Tomorrow</PageName></Tablix>
+          <Left>0.5in</Left><PageBreak><BreakLocation>End</BreakLocation></PageBreak><PageName>Items Due Tomorrow</PageName></Tablix>
           <Rectangle Name="Rectangle_ds_DueIn2Days">
             <ReportItems>
               <Textbox Name="TextboxHeader_ds_DueIn2Days">
@@ -3364,7 +3364,7 @@ ORDER BY
               </Border>
               <BackgroundColor>#FFD966</BackgroundColor>
             </Style>
-          <Left>0in</Left></Rectangle>
+          <Left>0.5in</Left></Rectangle>
           <Tablix Name="Tablix_ds_DueIn2Days">
             <TablixBody>
               <TablixColumns>
@@ -4208,7 +4208,7 @@ ORDER BY
             <Height>0.5in</Height>
             <Width>15in</Width>
             <Style />
-          <Left>0in</Left><PageBreak><BreakLocation>End</BreakLocation></PageBreak><PageName>Items Due in 2 Days</PageName></Tablix>
+          <Left>0.5in</Left><PageBreak><BreakLocation>End</BreakLocation></PageBreak><PageName>Items Due in 2 Days</PageName></Tablix>
           <Rectangle Name="Rectangle_ds_DueIn3to5Days">
             <ReportItems>
               <Textbox Name="TextboxHeader_ds_DueIn3to5Days">
@@ -4258,7 +4258,7 @@ ORDER BY
               </Border>
               <BackgroundColor>#70AD47</BackgroundColor>
             </Style>
-          <Left>0in</Left></Rectangle>
+          <Left>0.5in</Left></Rectangle>
           <Tablix Name="Tablix_ds_DueIn3to5Days">
             <TablixBody>
               <TablixColumns>
@@ -5102,7 +5102,7 @@ ORDER BY
             <Height>0.5in</Height>
             <Width>15in</Width>
             <Style />
-          <Left>0in</Left><PageBreak><BreakLocation>End</BreakLocation></PageBreak><PageName>Items Due in 3 to 5 Days</PageName></Tablix>
+          <Left>0.5in</Left><PageBreak><BreakLocation>End</BreakLocation></PageBreak><PageName>Items Due in 3 to 5 Days</PageName></Tablix>
           <Rectangle Name="Rectangle_ds_DueIn6to9Days">
             <ReportItems>
               <Textbox Name="TextboxHeader_ds_DueIn6to9Days">
@@ -5152,7 +5152,7 @@ ORDER BY
               </Border>
               <BackgroundColor>#00B0F0</BackgroundColor>
             </Style>
-          <Left>0in</Left></Rectangle>
+          <Left>0.5in</Left></Rectangle>
           <Tablix Name="Tablix_ds_DueIn6to9Days">
             <TablixBody>
               <TablixColumns>
@@ -5996,7 +5996,7 @@ ORDER BY
             <Height>0.5in</Height>
             <Width>15in</Width>
             <Style />
-          <Left>0in</Left><PageBreak><BreakLocation>End</BreakLocation></PageBreak><PageName>Items Due in 6 to 9 Days</PageName></Tablix>
+          <Left>0.5in</Left><PageBreak><BreakLocation>End</BreakLocation></PageBreak><PageName>Items Due in 6 to 9 Days</PageName></Tablix>
           <Rectangle Name="Rectangle_ds_DueIn10PlusDays">
             <ReportItems>
               <Textbox Name="TextboxHeader_ds_DueIn10PlusDays">
@@ -6046,7 +6046,7 @@ ORDER BY
               </Border>
               <BackgroundColor>#4472C4</BackgroundColor>
             </Style>
-          <Left>0in</Left></Rectangle>
+          <Left>0.5in</Left></Rectangle>
           <Tablix Name="Tablix_ds_DueIn10PlusDays">
             <TablixBody>
               <TablixColumns>
@@ -6890,12 +6890,12 @@ ORDER BY
             <Height>0.5in</Height>
             <Width>15in</Width>
             <Style />
-          <Left>0in</Left><PageBreak><BreakLocation>End</BreakLocation></PageBreak><PageName>Items Due in 10+ Days</PageName></Tablix>
+          <Left>0.5in</Left><PageBreak><BreakLocation>End</BreakLocation></PageBreak><PageName>Items Due in 10+ Days</PageName></Tablix>
           </ReportItems>
         <Height>13in</Height>
         <Style />
-      </Body>
-      <Width>15in</Width>
+      <Width>16in</Width></Body>
+      <Width>16in</Width>
       <Page>
         <PageHeader>
           <Height>0.65in</Height>
@@ -6941,7 +6941,7 @@ ORDER BY
         <TopMargin>0.5in</TopMargin>
         <BottomMargin>0.5in</BottomMargin>
         <Style />
-      </Page>
+      <PageHeight>11in</PageHeight><PageWidth>17in</PageWidth></Page>
     </ReportSection>
   </ReportSections>
   <ReportParametersLayout>
