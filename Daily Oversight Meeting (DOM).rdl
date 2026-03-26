@@ -149,6 +149,7 @@ ORDER BY
 			'vBallInCourt'[Revision],
 			'vBallInCourt'[Due Date],
 			'vBallInCourt'[Final Due Date],
+			'vBallInCourt'[vDaystoDueDate],
 			'vBallInCourt'[Name],
 			'vBallInCourt'[Ball in Court],
 			__DS0FilterTable,
@@ -194,7 +195,7 @@ ORDER BY
           <DataField>vBallInCourt[Ball in Court]</DataField>
         </Field>
         <Field Name="vBallInCourt_vDaysLate">
-          <DataField>[SumvDaysLate]</DataField>
+          <DataField>vBallInCourt[vDaystoDueDate]</DataField>
         </Field>
       </Fields>
     </DataSet>
@@ -235,6 +236,7 @@ ORDER BY
 			'vBallInCourt'[Revision],
 			'vBallInCourt'[Due Date],
 			'vBallInCourt'[Final Due Date],
+			'vBallInCourt'[vDaystoDueDate],
 			'vBallInCourt'[Name],
 			'vBallInCourt'[Ball in Court],
 			__DS0FilterTable,
@@ -280,7 +282,7 @@ ORDER BY
           <DataField>vBallInCourt[Ball in Court]</DataField>
         </Field>
         <Field Name="vBallInCourt_vDaysLate">
-          <DataField>[SumvDaysLate]</DataField>
+          <DataField>vBallInCourt[vDaystoDueDate]</DataField>
         </Field>
       </Fields>
     </DataSet>
@@ -321,6 +323,7 @@ ORDER BY
 			'vBallInCourt'[Revision],
 			'vBallInCourt'[Due Date],
 			'vBallInCourt'[Final Due Date],
+			'vBallInCourt'[vDaystoDueDate],
 			'vBallInCourt'[Name],
 			'vBallInCourt'[Ball in Court],
 			__DS0FilterTable,
@@ -366,7 +369,7 @@ ORDER BY
           <DataField>vBallInCourt[Ball in Court]</DataField>
         </Field>
         <Field Name="vBallInCourt_vDaysLate">
-          <DataField>[SumvDaysLate]</DataField>
+          <DataField>vBallInCourt[vDaystoDueDate]</DataField>
         </Field>
       </Fields>
     </DataSet>
@@ -407,6 +410,7 @@ ORDER BY
 			'vBallInCourt'[Revision],
 			'vBallInCourt'[Due Date],
 			'vBallInCourt'[Final Due Date],
+			'vBallInCourt'[vDaystoDueDate],
 			'vBallInCourt'[Name],
 			'vBallInCourt'[Ball in Court],
 			__DS0FilterTable,
@@ -452,7 +456,7 @@ ORDER BY
           <DataField>vBallInCourt[Ball in Court]</DataField>
         </Field>
         <Field Name="vBallInCourt_vDaysLate">
-          <DataField>[SumvDaysLate]</DataField>
+          <DataField>vBallInCourt[vDaystoDueDate]</DataField>
         </Field>
       </Fields>
     </DataSet>
@@ -493,6 +497,7 @@ ORDER BY
 			'vBallInCourt'[Revision],
 			'vBallInCourt'[Due Date],
 			'vBallInCourt'[Final Due Date],
+			'vBallInCourt'[vDaystoDueDate],
 			'vBallInCourt'[Name],
 			'vBallInCourt'[Ball in Court],
 			__DS0FilterTable,
@@ -538,7 +543,7 @@ ORDER BY
           <DataField>vBallInCourt[Ball in Court]</DataField>
         </Field>
         <Field Name="vBallInCourt_vDaysLate">
-          <DataField>[SumvDaysLate]</DataField>
+          <DataField>vBallInCourt[vDaystoDueDate]</DataField>
         </Field>
       </Fields>
     </DataSet>
@@ -579,6 +584,7 @@ ORDER BY
 			'vBallInCourt'[Revision],
 			'vBallInCourt'[Due Date],
 			'vBallInCourt'[Final Due Date],
+			'vBallInCourt'[vDaystoDueDate],
 			'vBallInCourt'[Name],
 			'vBallInCourt'[Ball in Court],
 			__DS0FilterTable,
@@ -624,7 +630,7 @@ ORDER BY
           <DataField>vBallInCourt[Ball in Court]</DataField>
         </Field>
         <Field Name="vBallInCourt_vDaysLate">
-          <DataField>[SumvDaysLate]</DataField>
+          <DataField>vBallInCourt[vDaystoDueDate]</DataField>
         </Field>
       </Fields>
     </DataSet>
