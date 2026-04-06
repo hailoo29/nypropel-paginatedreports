@@ -62,6 +62,7 @@
 			'vBallInCourt'[Number],
 			'vBallInCourt'[Revision],
 			'vBallInCourt'[Due Date],
+			'vBallInCourt'[Reviewer's Due Date],
 			'vBallInCourt'[Final Due Date],
 			'vBallInCourt'[Name],
 			'vBallInCourt'[Ball in Court],
@@ -99,7 +100,7 @@ ORDER BY
         <Field Name="vBallInCourt_Due_20_Date">
           <DataField>vBallInCourt[Due Date]</DataField>
         </Field>
-        <Field Name="vBallInCourt_Final_20_Due_20_Date">
+        <Field Name="vBallInCourt_Reviewer_20_Due_20_Date"><DataField>vBallInCourt[Reviewer's Due Date]</DataField></Field><Field Name="vBallInCourt_Final_20_Due_20_Date">
           <DataField>vBallInCourt[Final Due Date]</DataField>
         </Field>
         <Field Name="vBallInCourt_Name">
@@ -149,6 +150,7 @@ ORDER BY
 			'vBallInCourt'[Number],
 			'vBallInCourt'[Revision],
 			'vBallInCourt'[Due Date],
+			'vBallInCourt'[Reviewer's Due Date],
 			'vBallInCourt'[Final Due Date],
 			'vBallInCourt'[vDaystoDueDate],
 			'vBallInCourt'[Name],
@@ -187,7 +189,7 @@ ORDER BY
         <Field Name="vBallInCourt_Due_20_Date">
           <DataField>vBallInCourt[Due Date]</DataField>
         </Field>
-        <Field Name="vBallInCourt_Final_20_Due_20_Date">
+        <Field Name="vBallInCourt_Reviewer_20_Due_20_Date"><DataField>vBallInCourt[Reviewer's Due Date]</DataField></Field><Field Name="vBallInCourt_Final_20_Due_20_Date">
           <DataField>vBallInCourt[Final Due Date]</DataField>
         </Field>
         <Field Name="vBallInCourt_Name">
@@ -237,6 +239,7 @@ ORDER BY
 			'vBallInCourt'[Number],
 			'vBallInCourt'[Revision],
 			'vBallInCourt'[Due Date],
+			'vBallInCourt'[Reviewer's Due Date],
 			'vBallInCourt'[Final Due Date],
 			'vBallInCourt'[vDaystoDueDate],
 			'vBallInCourt'[Name],
@@ -275,7 +278,7 @@ ORDER BY
         <Field Name="vBallInCourt_Due_20_Date">
           <DataField>vBallInCourt[Due Date]</DataField>
         </Field>
-        <Field Name="vBallInCourt_Final_20_Due_20_Date">
+        <Field Name="vBallInCourt_Reviewer_20_Due_20_Date"><DataField>vBallInCourt[Reviewer's Due Date]</DataField></Field><Field Name="vBallInCourt_Final_20_Due_20_Date">
           <DataField>vBallInCourt[Final Due Date]</DataField>
         </Field>
         <Field Name="vBallInCourt_Name">
@@ -325,6 +328,7 @@ ORDER BY
 			'vBallInCourt'[Number],
 			'vBallInCourt'[Revision],
 			'vBallInCourt'[Due Date],
+			'vBallInCourt'[Reviewer's Due Date],
 			'vBallInCourt'[Final Due Date],
 			'vBallInCourt'[vDaystoDueDate],
 			'vBallInCourt'[Name],
@@ -363,7 +367,7 @@ ORDER BY
         <Field Name="vBallInCourt_Due_20_Date">
           <DataField>vBallInCourt[Due Date]</DataField>
         </Field>
-        <Field Name="vBallInCourt_Final_20_Due_20_Date">
+        <Field Name="vBallInCourt_Reviewer_20_Due_20_Date"><DataField>vBallInCourt[Reviewer's Due Date]</DataField></Field><Field Name="vBallInCourt_Final_20_Due_20_Date">
           <DataField>vBallInCourt[Final Due Date]</DataField>
         </Field>
         <Field Name="vBallInCourt_Name">
@@ -413,6 +417,7 @@ ORDER BY
 			'vBallInCourt'[Number],
 			'vBallInCourt'[Revision],
 			'vBallInCourt'[Due Date],
+			'vBallInCourt'[Reviewer's Due Date],
 			'vBallInCourt'[Final Due Date],
 			'vBallInCourt'[vDaystoDueDate],
 			'vBallInCourt'[Name],
@@ -451,7 +456,7 @@ ORDER BY
         <Field Name="vBallInCourt_Due_20_Date">
           <DataField>vBallInCourt[Due Date]</DataField>
         </Field>
-        <Field Name="vBallInCourt_Final_20_Due_20_Date">
+        <Field Name="vBallInCourt_Reviewer_20_Due_20_Date"><DataField>vBallInCourt[Reviewer's Due Date]</DataField></Field><Field Name="vBallInCourt_Final_20_Due_20_Date">
           <DataField>vBallInCourt[Final Due Date]</DataField>
         </Field>
         <Field Name="vBallInCourt_Name">
@@ -501,6 +506,7 @@ ORDER BY
 			'vBallInCourt'[Number],
 			'vBallInCourt'[Revision],
 			'vBallInCourt'[Due Date],
+			'vBallInCourt'[Reviewer's Due Date],
 			'vBallInCourt'[Final Due Date],
 			'vBallInCourt'[vDaystoDueDate],
 			'vBallInCourt'[Name],
@@ -539,7 +545,7 @@ ORDER BY
         <Field Name="vBallInCourt_Due_20_Date">
           <DataField>vBallInCourt[Due Date]</DataField>
         </Field>
-        <Field Name="vBallInCourt_Final_20_Due_20_Date">
+        <Field Name="vBallInCourt_Reviewer_20_Due_20_Date"><DataField>vBallInCourt[Reviewer's Due Date]</DataField></Field><Field Name="vBallInCourt_Final_20_Due_20_Date">
           <DataField>vBallInCourt[Final Due Date]</DataField>
         </Field>
         <Field Name="vBallInCourt_Name">
@@ -589,6 +595,7 @@ ORDER BY
 			'vBallInCourt'[Number],
 			'vBallInCourt'[Revision],
 			'vBallInCourt'[Due Date],
+			'vBallInCourt'[Reviewer's Due Date],
 			'vBallInCourt'[Final Due Date],
 			'vBallInCourt'[vDaystoDueDate],
 			'vBallInCourt'[Name],
@@ -627,7 +634,7 @@ ORDER BY
         <Field Name="vBallInCourt_Due_20_Date">
           <DataField>vBallInCourt[Due Date]</DataField>
         </Field>
-        <Field Name="vBallInCourt_Final_20_Due_20_Date">
+        <Field Name="vBallInCourt_Reviewer_20_Due_20_Date"><DataField>vBallInCourt[Reviewer's Due Date]</DataField></Field><Field Name="vBallInCourt_Final_20_Due_20_Date">
           <DataField>vBallInCourt[Final Due Date]</DataField>
         </Field>
         <Field Name="vBallInCourt_Name">
@@ -677,6 +684,7 @@ ORDER BY
 			'vBallInCourt'[Number],
 			'vBallInCourt'[Revision],
 			'vBallInCourt'[Due Date],
+			'vBallInCourt'[Reviewer's Due Date],
 			'vBallInCourt'[Final Due Date],
 			'vBallInCourt'[vDaystoDueDate],
 			'vBallInCourt'[Name],
@@ -715,7 +723,7 @@ ORDER BY
         <Field Name="vBallInCourt_Due_20_Date">
           <DataField>vBallInCourt[Due Date]</DataField>
         </Field>
-        <Field Name="vBallInCourt_Final_20_Due_20_Date">
+        <Field Name="vBallInCourt_Reviewer_20_Due_20_Date"><DataField>vBallInCourt[Reviewer's Due Date]</DataField></Field><Field Name="vBallInCourt_Final_20_Due_20_Date">
           <DataField>vBallInCourt[Final Due Date]</DataField>
         </Field>
         <Field Name="vBallInCourt_Name">
@@ -787,6 +795,9 @@ ORDER BY
           <Tablix Name="Tablix_ds_PastDue">
             <TablixBody>
               <TablixColumns>
+                <TablixColumn>
+                  <Width>47.625mm</Width>
+                </TablixColumn>
                 <TablixColumn>
                   <Width>47.625mm</Width>
                 </TablixColumn>
@@ -1019,6 +1030,57 @@ ORDER BY
                     </TablixCell>
                     <TablixCell>
                       <CellContents>
+                        <Textbox Name="TextboxReviewerHdr_Tablix_ds_PastDue">
+                          <CanGrow>true</CanGrow>
+                          <UserSort>
+                            <SortExpression>=Fields!vBallInCourt_Reviewer_20_Due_20_Date.Value</SortExpression>
+                          </UserSort>
+                          <KeepTogether>true</KeepTogether>
+                          <Paragraphs>
+                            <Paragraph>
+                              <TextRuns>
+                                <TextRun>
+                                  <Value>Reviewer's Due Date</Value>
+                                  <Style>
+                                    <FontFamily>Segoe UI Semibold</FontFamily>
+                                    <FontSize>11pt</FontSize>
+                                    <Format>d</Format>
+                                    <Color>=Variables!Style_FontColorHeaders.Value</Color>
+                                  </Style>
+                                </TextRun>
+                              </TextRuns>
+                              <Style><TextAlign>Center</TextAlign></Style>
+                            </Paragraph>
+                          </Paragraphs>
+                          <Style>
+                            <Border>
+                              <Style>None</Style>
+                            </Border>
+                            <TopBorder>
+                              <Style>None</Style>
+                            </TopBorder>
+                            <BottomBorder>
+                              <Color>=Variables!Style_OutlineColor.Value</Color>
+                              <Style>=If(Variables!Style_HeaderEnableBorderBottom.Value = "true", "Solid", "None")</Style>
+                              <Width>=If(Variables!Style_HeaderBorderBottomWeight.Value = "",             Variables!Style_GridHorizontalWeight.Value, Variables!Style_HeaderBorderBottomWeight.Value)</Width>
+                            </BottomBorder>
+                            <LeftBorder>
+                              <Color>=Variables!Style_GridColor.Value</Color>
+                              <Style>=If(Variables!Style_GridVerticalEnabledTable.Value = "true", "Solid", "None")</Style>
+                              <Width>=Variables!Style_GridVerticalWeight.Value</Width>
+                            </LeftBorder>
+                            <BackgroundColor>=Variables!Style_BackColorHeaders.Value</BackgroundColor>
+                            <FontFamily />
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>2pt</PaddingRight>
+                            <PaddingTop>4pt</PaddingTop>
+                            <PaddingBottom>2pt</PaddingBottom>
+                          <TextAlign>Center</TextAlign></Style>
+                        </Textbox>
+                      </CellContents>
+                    </TablixCell>
+                    <TablixCell>
+                      <CellContents>
                         <Textbox Name="Textbox27b18dbb3d2b4d549addb1e645aa0a16">
                           <CanGrow>true</CanGrow>
                           <UserSort>
@@ -1180,7 +1242,7 @@ ORDER BY
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>vDaysLate</Value>
+                                  <Value>Days Late</Value>
                                   <Style>
                                     <FontFamily>Segoe UI Semibold</FontFamily>
                                     <FontSize>11pt</FontSize>
@@ -1462,6 +1524,53 @@ ORDER BY
                     </TablixCell>
                     <TablixCell>
                       <CellContents>
+                        <Textbox Name="TextboxReviewerVal_Tablix_ds_PastDue">
+                          <CanGrow>true</CanGrow>
+                          <KeepTogether>true</KeepTogether>
+                          <Paragraphs>
+                            <Paragraph>
+                              <TextRuns>
+                                <TextRun>
+                                  <Value>=Fields!vBallInCourt_Reviewer_20_Due_20_Date.Value</Value>
+                                  <Style>
+                                    <Format>d</Format>
+                                    <Color>=If(RowNumber(Nothing) Mod 2 &lt;&gt; 0, Variables!Style_FontColorValues1.Value, Variables!Style_FontColorValues2.Value)</Color>
+                                  </Style>
+                                </TextRun>
+                              </TextRuns>
+                              <Style><TextAlign>Center</TextAlign></Style>
+                            </Paragraph>
+                          </Paragraphs>
+                          <DataElementName>vBallInCourt_Reviewer_Due_Date</DataElementName>
+                          <Style>
+                            <Border>
+                              <Style>None</Style>
+                            </Border>
+                            <TopBorder>
+                              <Style>None</Style>
+                            </TopBorder>
+                            <BottomBorder>
+                              <Color>=Variables!Style_GridColor.Value</Color>
+                              <Style>=If(Variables!Style_GridHorizontalEnabledTable.Value = "true", "Solid", "None")</Style>
+                              <Width>=Variables!Style_GridHorizontalWeight.Value</Width>
+                            </BottomBorder>
+                            <LeftBorder>
+                              <Color>=Variables!Style_GridColor.Value</Color>
+                              <Style>=If(Variables!Style_GridVerticalEnabledTable.Value = "true", "Solid", "None")</Style>
+                              <Width>=Variables!Style_GridVerticalWeight.Value</Width>
+                            </LeftBorder>
+                            <BackgroundColor>=If(RowNumber(Nothing) Mod 2 &lt;&gt; 0, Variables!Style_BackColorValues1.Value, Variables!Style_BackColorValues2.Value)</BackgroundColor>
+                            <FontFamily />
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>5pt</PaddingRight>
+                            <PaddingTop>=Variables!Style_RowPadding.Value</PaddingTop>
+                            <PaddingBottom>=Variables!Style_RowPadding.Value</PaddingBottom>
+                          <TextAlign>Center</TextAlign></Style>
+                        </Textbox>
+                      </CellContents>
+                    </TablixCell>
+                    <TablixCell>
+                      <CellContents>
                         <Textbox Name="Textbox2e23500736ac4addb41202273e6d6eb4">
                           <CanGrow>true</CanGrow>
                           <KeepTogether>true</KeepTogether>
@@ -1707,6 +1816,7 @@ ORDER BY
                 <TablixMember />
                 <TablixMember />
                 <TablixMember />
+                <TablixMember />
               <TablixMember /></TablixMembers>
             </TablixColumnHierarchy>
             <TablixRowHierarchy>
@@ -1779,6 +1889,9 @@ ORDER BY
           <Tablix Name="Tablix_ds_DueToday">
             <TablixBody>
               <TablixColumns>
+                <TablixColumn>
+                  <Width>47.625mm</Width>
+                </TablixColumn>
                 <TablixColumn>
                   <Width>47.625mm</Width>
                 </TablixColumn>
@@ -2011,6 +2124,57 @@ ORDER BY
                     </TablixCell>
                     <TablixCell>
                       <CellContents>
+                        <Textbox Name="TextboxReviewerHdr_Tablix_ds_DueToday">
+                          <CanGrow>true</CanGrow>
+                          <UserSort>
+                            <SortExpression>=Fields!vBallInCourt_Reviewer_20_Due_20_Date.Value</SortExpression>
+                          </UserSort>
+                          <KeepTogether>true</KeepTogether>
+                          <Paragraphs>
+                            <Paragraph>
+                              <TextRuns>
+                                <TextRun>
+                                  <Value>Reviewer's Due Date</Value>
+                                  <Style>
+                                    <FontFamily>Segoe UI Semibold</FontFamily>
+                                    <FontSize>11pt</FontSize>
+                                    <Format>d</Format>
+                                    <Color>=Variables!Style_FontColorHeaders.Value</Color>
+                                  </Style>
+                                </TextRun>
+                              </TextRuns>
+                              <Style><TextAlign>Center</TextAlign></Style>
+                            </Paragraph>
+                          </Paragraphs>
+                          <Style>
+                            <Border>
+                              <Style>None</Style>
+                            </Border>
+                            <TopBorder>
+                              <Style>None</Style>
+                            </TopBorder>
+                            <BottomBorder>
+                              <Color>=Variables!Style_OutlineColor.Value</Color>
+                              <Style>=If(Variables!Style_HeaderEnableBorderBottom.Value = "true", "Solid", "None")</Style>
+                              <Width>=If(Variables!Style_HeaderBorderBottomWeight.Value = "",             Variables!Style_GridHorizontalWeight.Value, Variables!Style_HeaderBorderBottomWeight.Value)</Width>
+                            </BottomBorder>
+                            <LeftBorder>
+                              <Color>=Variables!Style_GridColor.Value</Color>
+                              <Style>=If(Variables!Style_GridVerticalEnabledTable.Value = "true", "Solid", "None")</Style>
+                              <Width>=Variables!Style_GridVerticalWeight.Value</Width>
+                            </LeftBorder>
+                            <BackgroundColor>=Variables!Style_BackColorHeaders.Value</BackgroundColor>
+                            <FontFamily />
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>2pt</PaddingRight>
+                            <PaddingTop>4pt</PaddingTop>
+                            <PaddingBottom>2pt</PaddingBottom>
+                          <TextAlign>Center</TextAlign></Style>
+                        </Textbox>
+                      </CellContents>
+                    </TablixCell>
+                    <TablixCell>
+                      <CellContents>
                         <Textbox Name="Textbox27b18dbb3d2b4d549addb1e645aa0a16_005">
                           <CanGrow>true</CanGrow>
                           <UserSort>
@@ -2172,7 +2336,7 @@ ORDER BY
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>vDaystoDueDate</Value>
+                                  <Value>Days to Due Date</Value>
                                   <Style>
                                     <FontFamily>Segoe UI Semibold</FontFamily>
                                     <FontSize>11pt</FontSize>
@@ -2454,6 +2618,53 @@ ORDER BY
                     </TablixCell>
                     <TablixCell>
                       <CellContents>
+                        <Textbox Name="TextboxReviewerVal_Tablix_ds_DueToday">
+                          <CanGrow>true</CanGrow>
+                          <KeepTogether>true</KeepTogether>
+                          <Paragraphs>
+                            <Paragraph>
+                              <TextRuns>
+                                <TextRun>
+                                  <Value>=Fields!vBallInCourt_Reviewer_20_Due_20_Date.Value</Value>
+                                  <Style>
+                                    <Format>d</Format>
+                                    <Color>=If(RowNumber(Nothing) Mod 2 &lt;&gt; 0, Variables!Style_FontColorValues1.Value, Variables!Style_FontColorValues2.Value)</Color>
+                                  </Style>
+                                </TextRun>
+                              </TextRuns>
+                              <Style><TextAlign>Center</TextAlign></Style>
+                            </Paragraph>
+                          </Paragraphs>
+                          <DataElementName>vBallInCourt_Reviewer_Due_Date</DataElementName>
+                          <Style>
+                            <Border>
+                              <Style>None</Style>
+                            </Border>
+                            <TopBorder>
+                              <Style>None</Style>
+                            </TopBorder>
+                            <BottomBorder>
+                              <Color>=Variables!Style_GridColor.Value</Color>
+                              <Style>=If(Variables!Style_GridHorizontalEnabledTable.Value = "true", "Solid", "None")</Style>
+                              <Width>=Variables!Style_GridHorizontalWeight.Value</Width>
+                            </BottomBorder>
+                            <LeftBorder>
+                              <Color>=Variables!Style_GridColor.Value</Color>
+                              <Style>=If(Variables!Style_GridVerticalEnabledTable.Value = "true", "Solid", "None")</Style>
+                              <Width>=Variables!Style_GridVerticalWeight.Value</Width>
+                            </LeftBorder>
+                            <BackgroundColor>=If(RowNumber(Nothing) Mod 2 &lt;&gt; 0, Variables!Style_BackColorValues1.Value, Variables!Style_BackColorValues2.Value)</BackgroundColor>
+                            <FontFamily />
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>5pt</PaddingRight>
+                            <PaddingTop>=Variables!Style_RowPadding.Value</PaddingTop>
+                            <PaddingBottom>=Variables!Style_RowPadding.Value</PaddingBottom>
+                          <TextAlign>Center</TextAlign></Style>
+                        </Textbox>
+                      </CellContents>
+                    </TablixCell>
+                    <TablixCell>
+                      <CellContents>
                         <Textbox Name="Textbox2e23500736ac4addb41202273e6d6eb4_013">
                           <CanGrow>true</CanGrow>
                           <KeepTogether>true</KeepTogether>
@@ -2699,6 +2910,7 @@ ORDER BY
                 <TablixMember />
                 <TablixMember />
                 <TablixMember />
+                <TablixMember />
               <TablixMember /></TablixMembers>
             </TablixColumnHierarchy>
             <TablixRowHierarchy>
@@ -2771,6 +2983,9 @@ ORDER BY
           <Tablix Name="Tablix_ds_DueTomorrow">
             <TablixBody>
               <TablixColumns>
+                <TablixColumn>
+                  <Width>47.625mm</Width>
+                </TablixColumn>
                 <TablixColumn>
                   <Width>47.625mm</Width>
                 </TablixColumn>
@@ -3003,6 +3218,57 @@ ORDER BY
                     </TablixCell>
                     <TablixCell>
                       <CellContents>
+                        <Textbox Name="TextboxReviewerHdr_Tablix_ds_DueTomorrow">
+                          <CanGrow>true</CanGrow>
+                          <UserSort>
+                            <SortExpression>=Fields!vBallInCourt_Reviewer_20_Due_20_Date.Value</SortExpression>
+                          </UserSort>
+                          <KeepTogether>true</KeepTogether>
+                          <Paragraphs>
+                            <Paragraph>
+                              <TextRuns>
+                                <TextRun>
+                                  <Value>Reviewer's Due Date</Value>
+                                  <Style>
+                                    <FontFamily>Segoe UI Semibold</FontFamily>
+                                    <FontSize>11pt</FontSize>
+                                    <Format>d</Format>
+                                    <Color>=Variables!Style_FontColorHeaders.Value</Color>
+                                  </Style>
+                                </TextRun>
+                              </TextRuns>
+                              <Style><TextAlign>Center</TextAlign></Style>
+                            </Paragraph>
+                          </Paragraphs>
+                          <Style>
+                            <Border>
+                              <Style>None</Style>
+                            </Border>
+                            <TopBorder>
+                              <Style>None</Style>
+                            </TopBorder>
+                            <BottomBorder>
+                              <Color>=Variables!Style_OutlineColor.Value</Color>
+                              <Style>=If(Variables!Style_HeaderEnableBorderBottom.Value = "true", "Solid", "None")</Style>
+                              <Width>=If(Variables!Style_HeaderBorderBottomWeight.Value = "",             Variables!Style_GridHorizontalWeight.Value, Variables!Style_HeaderBorderBottomWeight.Value)</Width>
+                            </BottomBorder>
+                            <LeftBorder>
+                              <Color>=Variables!Style_GridColor.Value</Color>
+                              <Style>=If(Variables!Style_GridVerticalEnabledTable.Value = "true", "Solid", "None")</Style>
+                              <Width>=Variables!Style_GridVerticalWeight.Value</Width>
+                            </LeftBorder>
+                            <BackgroundColor>=Variables!Style_BackColorHeaders.Value</BackgroundColor>
+                            <FontFamily />
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>2pt</PaddingRight>
+                            <PaddingTop>4pt</PaddingTop>
+                            <PaddingBottom>2pt</PaddingBottom>
+                          <TextAlign>Center</TextAlign></Style>
+                        </Textbox>
+                      </CellContents>
+                    </TablixCell>
+                    <TablixCell>
+                      <CellContents>
                         <Textbox Name="Textbox27b18dbb3d2b4d549addb1e645aa0a16_021">
                           <CanGrow>true</CanGrow>
                           <UserSort>
@@ -3164,7 +3430,7 @@ ORDER BY
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>vDaystoDueDate</Value>
+                                  <Value>Days to Due Date</Value>
                                   <Style>
                                     <FontFamily>Segoe UI Semibold</FontFamily>
                                     <FontSize>11pt</FontSize>
@@ -3446,6 +3712,53 @@ ORDER BY
                     </TablixCell>
                     <TablixCell>
                       <CellContents>
+                        <Textbox Name="TextboxReviewerVal_Tablix_ds_DueTomorrow">
+                          <CanGrow>true</CanGrow>
+                          <KeepTogether>true</KeepTogether>
+                          <Paragraphs>
+                            <Paragraph>
+                              <TextRuns>
+                                <TextRun>
+                                  <Value>=Fields!vBallInCourt_Reviewer_20_Due_20_Date.Value</Value>
+                                  <Style>
+                                    <Format>d</Format>
+                                    <Color>=If(RowNumber(Nothing) Mod 2 &lt;&gt; 0, Variables!Style_FontColorValues1.Value, Variables!Style_FontColorValues2.Value)</Color>
+                                  </Style>
+                                </TextRun>
+                              </TextRuns>
+                              <Style><TextAlign>Center</TextAlign></Style>
+                            </Paragraph>
+                          </Paragraphs>
+                          <DataElementName>vBallInCourt_Reviewer_Due_Date</DataElementName>
+                          <Style>
+                            <Border>
+                              <Style>None</Style>
+                            </Border>
+                            <TopBorder>
+                              <Style>None</Style>
+                            </TopBorder>
+                            <BottomBorder>
+                              <Color>=Variables!Style_GridColor.Value</Color>
+                              <Style>=If(Variables!Style_GridHorizontalEnabledTable.Value = "true", "Solid", "None")</Style>
+                              <Width>=Variables!Style_GridHorizontalWeight.Value</Width>
+                            </BottomBorder>
+                            <LeftBorder>
+                              <Color>=Variables!Style_GridColor.Value</Color>
+                              <Style>=If(Variables!Style_GridVerticalEnabledTable.Value = "true", "Solid", "None")</Style>
+                              <Width>=Variables!Style_GridVerticalWeight.Value</Width>
+                            </LeftBorder>
+                            <BackgroundColor>=If(RowNumber(Nothing) Mod 2 &lt;&gt; 0, Variables!Style_BackColorValues1.Value, Variables!Style_BackColorValues2.Value)</BackgroundColor>
+                            <FontFamily />
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>5pt</PaddingRight>
+                            <PaddingTop>=Variables!Style_RowPadding.Value</PaddingTop>
+                            <PaddingBottom>=Variables!Style_RowPadding.Value</PaddingBottom>
+                          <TextAlign>Center</TextAlign></Style>
+                        </Textbox>
+                      </CellContents>
+                    </TablixCell>
+                    <TablixCell>
+                      <CellContents>
                         <Textbox Name="Textbox2e23500736ac4addb41202273e6d6eb4_029">
                           <CanGrow>true</CanGrow>
                           <KeepTogether>true</KeepTogether>
@@ -3691,6 +4004,7 @@ ORDER BY
                 <TablixMember />
                 <TablixMember />
                 <TablixMember />
+                <TablixMember />
               <TablixMember /></TablixMembers>
             </TablixColumnHierarchy>
             <TablixRowHierarchy>
@@ -3763,6 +4077,9 @@ ORDER BY
           <Tablix Name="Tablix_ds_DueIn2Days">
             <TablixBody>
               <TablixColumns>
+                <TablixColumn>
+                  <Width>47.625mm</Width>
+                </TablixColumn>
                 <TablixColumn>
                   <Width>47.625mm</Width>
                 </TablixColumn>
@@ -3995,6 +4312,57 @@ ORDER BY
                     </TablixCell>
                     <TablixCell>
                       <CellContents>
+                        <Textbox Name="TextboxReviewerHdr_Tablix_ds_DueIn2Days">
+                          <CanGrow>true</CanGrow>
+                          <UserSort>
+                            <SortExpression>=Fields!vBallInCourt_Reviewer_20_Due_20_Date.Value</SortExpression>
+                          </UserSort>
+                          <KeepTogether>true</KeepTogether>
+                          <Paragraphs>
+                            <Paragraph>
+                              <TextRuns>
+                                <TextRun>
+                                  <Value>Reviewer's Due Date</Value>
+                                  <Style>
+                                    <FontFamily>Segoe UI Semibold</FontFamily>
+                                    <FontSize>11pt</FontSize>
+                                    <Format>d</Format>
+                                    <Color>=Variables!Style_FontColorHeaders.Value</Color>
+                                  </Style>
+                                </TextRun>
+                              </TextRuns>
+                              <Style><TextAlign>Center</TextAlign></Style>
+                            </Paragraph>
+                          </Paragraphs>
+                          <Style>
+                            <Border>
+                              <Style>None</Style>
+                            </Border>
+                            <TopBorder>
+                              <Style>None</Style>
+                            </TopBorder>
+                            <BottomBorder>
+                              <Color>=Variables!Style_OutlineColor.Value</Color>
+                              <Style>=If(Variables!Style_HeaderEnableBorderBottom.Value = "true", "Solid", "None")</Style>
+                              <Width>=If(Variables!Style_HeaderBorderBottomWeight.Value = "",             Variables!Style_GridHorizontalWeight.Value, Variables!Style_HeaderBorderBottomWeight.Value)</Width>
+                            </BottomBorder>
+                            <LeftBorder>
+                              <Color>=Variables!Style_GridColor.Value</Color>
+                              <Style>=If(Variables!Style_GridVerticalEnabledTable.Value = "true", "Solid", "None")</Style>
+                              <Width>=Variables!Style_GridVerticalWeight.Value</Width>
+                            </LeftBorder>
+                            <BackgroundColor>=Variables!Style_BackColorHeaders.Value</BackgroundColor>
+                            <FontFamily />
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>2pt</PaddingRight>
+                            <PaddingTop>4pt</PaddingTop>
+                            <PaddingBottom>2pt</PaddingBottom>
+                          <TextAlign>Center</TextAlign></Style>
+                        </Textbox>
+                      </CellContents>
+                    </TablixCell>
+                    <TablixCell>
+                      <CellContents>
                         <Textbox Name="Textbox27b18dbb3d2b4d549addb1e645aa0a16_037">
                           <CanGrow>true</CanGrow>
                           <UserSort>
@@ -4156,7 +4524,7 @@ ORDER BY
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>vDaystoDueDate</Value>
+                                  <Value>Days to Due Date</Value>
                                   <Style>
                                     <FontFamily>Segoe UI Semibold</FontFamily>
                                     <FontSize>11pt</FontSize>
@@ -4438,6 +4806,53 @@ ORDER BY
                     </TablixCell>
                     <TablixCell>
                       <CellContents>
+                        <Textbox Name="TextboxReviewerVal_Tablix_ds_DueIn2Days">
+                          <CanGrow>true</CanGrow>
+                          <KeepTogether>true</KeepTogether>
+                          <Paragraphs>
+                            <Paragraph>
+                              <TextRuns>
+                                <TextRun>
+                                  <Value>=Fields!vBallInCourt_Reviewer_20_Due_20_Date.Value</Value>
+                                  <Style>
+                                    <Format>d</Format>
+                                    <Color>=If(RowNumber(Nothing) Mod 2 &lt;&gt; 0, Variables!Style_FontColorValues1.Value, Variables!Style_FontColorValues2.Value)</Color>
+                                  </Style>
+                                </TextRun>
+                              </TextRuns>
+                              <Style><TextAlign>Center</TextAlign></Style>
+                            </Paragraph>
+                          </Paragraphs>
+                          <DataElementName>vBallInCourt_Reviewer_Due_Date</DataElementName>
+                          <Style>
+                            <Border>
+                              <Style>None</Style>
+                            </Border>
+                            <TopBorder>
+                              <Style>None</Style>
+                            </TopBorder>
+                            <BottomBorder>
+                              <Color>=Variables!Style_GridColor.Value</Color>
+                              <Style>=If(Variables!Style_GridHorizontalEnabledTable.Value = "true", "Solid", "None")</Style>
+                              <Width>=Variables!Style_GridHorizontalWeight.Value</Width>
+                            </BottomBorder>
+                            <LeftBorder>
+                              <Color>=Variables!Style_GridColor.Value</Color>
+                              <Style>=If(Variables!Style_GridVerticalEnabledTable.Value = "true", "Solid", "None")</Style>
+                              <Width>=Variables!Style_GridVerticalWeight.Value</Width>
+                            </LeftBorder>
+                            <BackgroundColor>=If(RowNumber(Nothing) Mod 2 &lt;&gt; 0, Variables!Style_BackColorValues1.Value, Variables!Style_BackColorValues2.Value)</BackgroundColor>
+                            <FontFamily />
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>5pt</PaddingRight>
+                            <PaddingTop>=Variables!Style_RowPadding.Value</PaddingTop>
+                            <PaddingBottom>=Variables!Style_RowPadding.Value</PaddingBottom>
+                          <TextAlign>Center</TextAlign></Style>
+                        </Textbox>
+                      </CellContents>
+                    </TablixCell>
+                    <TablixCell>
+                      <CellContents>
                         <Textbox Name="Textbox2e23500736ac4addb41202273e6d6eb4_045">
                           <CanGrow>true</CanGrow>
                           <KeepTogether>true</KeepTogether>
@@ -4683,6 +5098,7 @@ ORDER BY
                 <TablixMember />
                 <TablixMember />
                 <TablixMember />
+                <TablixMember />
               <TablixMember /></TablixMembers>
             </TablixColumnHierarchy>
             <TablixRowHierarchy>
@@ -4755,6 +5171,9 @@ ORDER BY
           <Tablix Name="Tablix_ds_DueIn3to5Days">
             <TablixBody>
               <TablixColumns>
+                <TablixColumn>
+                  <Width>47.625mm</Width>
+                </TablixColumn>
                 <TablixColumn>
                   <Width>47.625mm</Width>
                 </TablixColumn>
@@ -4987,6 +5406,57 @@ ORDER BY
                     </TablixCell>
                     <TablixCell>
                       <CellContents>
+                        <Textbox Name="TextboxReviewerHdr_Tablix_ds_DueIn3to5Days">
+                          <CanGrow>true</CanGrow>
+                          <UserSort>
+                            <SortExpression>=Fields!vBallInCourt_Reviewer_20_Due_20_Date.Value</SortExpression>
+                          </UserSort>
+                          <KeepTogether>true</KeepTogether>
+                          <Paragraphs>
+                            <Paragraph>
+                              <TextRuns>
+                                <TextRun>
+                                  <Value>Reviewer's Due Date</Value>
+                                  <Style>
+                                    <FontFamily>Segoe UI Semibold</FontFamily>
+                                    <FontSize>11pt</FontSize>
+                                    <Format>d</Format>
+                                    <Color>=Variables!Style_FontColorHeaders.Value</Color>
+                                  </Style>
+                                </TextRun>
+                              </TextRuns>
+                              <Style><TextAlign>Center</TextAlign></Style>
+                            </Paragraph>
+                          </Paragraphs>
+                          <Style>
+                            <Border>
+                              <Style>None</Style>
+                            </Border>
+                            <TopBorder>
+                              <Style>None</Style>
+                            </TopBorder>
+                            <BottomBorder>
+                              <Color>=Variables!Style_OutlineColor.Value</Color>
+                              <Style>=If(Variables!Style_HeaderEnableBorderBottom.Value = "true", "Solid", "None")</Style>
+                              <Width>=If(Variables!Style_HeaderBorderBottomWeight.Value = "",             Variables!Style_GridHorizontalWeight.Value, Variables!Style_HeaderBorderBottomWeight.Value)</Width>
+                            </BottomBorder>
+                            <LeftBorder>
+                              <Color>=Variables!Style_GridColor.Value</Color>
+                              <Style>=If(Variables!Style_GridVerticalEnabledTable.Value = "true", "Solid", "None")</Style>
+                              <Width>=Variables!Style_GridVerticalWeight.Value</Width>
+                            </LeftBorder>
+                            <BackgroundColor>=Variables!Style_BackColorHeaders.Value</BackgroundColor>
+                            <FontFamily />
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>2pt</PaddingRight>
+                            <PaddingTop>4pt</PaddingTop>
+                            <PaddingBottom>2pt</PaddingBottom>
+                          <TextAlign>Center</TextAlign></Style>
+                        </Textbox>
+                      </CellContents>
+                    </TablixCell>
+                    <TablixCell>
+                      <CellContents>
                         <Textbox Name="Textbox27b18dbb3d2b4d549addb1e645aa0a16_053">
                           <CanGrow>true</CanGrow>
                           <UserSort>
@@ -5148,7 +5618,7 @@ ORDER BY
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>vDaystoDueDate</Value>
+                                  <Value>Days to Due Date</Value>
                                   <Style>
                                     <FontFamily>Segoe UI Semibold</FontFamily>
                                     <FontSize>11pt</FontSize>
@@ -5430,6 +5900,53 @@ ORDER BY
                     </TablixCell>
                     <TablixCell>
                       <CellContents>
+                        <Textbox Name="TextboxReviewerVal_Tablix_ds_DueIn3to5Days">
+                          <CanGrow>true</CanGrow>
+                          <KeepTogether>true</KeepTogether>
+                          <Paragraphs>
+                            <Paragraph>
+                              <TextRuns>
+                                <TextRun>
+                                  <Value>=Fields!vBallInCourt_Reviewer_20_Due_20_Date.Value</Value>
+                                  <Style>
+                                    <Format>d</Format>
+                                    <Color>=If(RowNumber(Nothing) Mod 2 &lt;&gt; 0, Variables!Style_FontColorValues1.Value, Variables!Style_FontColorValues2.Value)</Color>
+                                  </Style>
+                                </TextRun>
+                              </TextRuns>
+                              <Style><TextAlign>Center</TextAlign></Style>
+                            </Paragraph>
+                          </Paragraphs>
+                          <DataElementName>vBallInCourt_Reviewer_Due_Date</DataElementName>
+                          <Style>
+                            <Border>
+                              <Style>None</Style>
+                            </Border>
+                            <TopBorder>
+                              <Style>None</Style>
+                            </TopBorder>
+                            <BottomBorder>
+                              <Color>=Variables!Style_GridColor.Value</Color>
+                              <Style>=If(Variables!Style_GridHorizontalEnabledTable.Value = "true", "Solid", "None")</Style>
+                              <Width>=Variables!Style_GridHorizontalWeight.Value</Width>
+                            </BottomBorder>
+                            <LeftBorder>
+                              <Color>=Variables!Style_GridColor.Value</Color>
+                              <Style>=If(Variables!Style_GridVerticalEnabledTable.Value = "true", "Solid", "None")</Style>
+                              <Width>=Variables!Style_GridVerticalWeight.Value</Width>
+                            </LeftBorder>
+                            <BackgroundColor>=If(RowNumber(Nothing) Mod 2 &lt;&gt; 0, Variables!Style_BackColorValues1.Value, Variables!Style_BackColorValues2.Value)</BackgroundColor>
+                            <FontFamily />
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>5pt</PaddingRight>
+                            <PaddingTop>=Variables!Style_RowPadding.Value</PaddingTop>
+                            <PaddingBottom>=Variables!Style_RowPadding.Value</PaddingBottom>
+                          <TextAlign>Center</TextAlign></Style>
+                        </Textbox>
+                      </CellContents>
+                    </TablixCell>
+                    <TablixCell>
+                      <CellContents>
                         <Textbox Name="Textbox2e23500736ac4addb41202273e6d6eb4_061">
                           <CanGrow>true</CanGrow>
                           <KeepTogether>true</KeepTogether>
@@ -5675,6 +6192,7 @@ ORDER BY
                 <TablixMember />
                 <TablixMember />
                 <TablixMember />
+                <TablixMember />
               <TablixMember /></TablixMembers>
             </TablixColumnHierarchy>
             <TablixRowHierarchy>
@@ -5747,6 +6265,9 @@ ORDER BY
           <Tablix Name="Tablix_ds_DueIn6to9Days">
             <TablixBody>
               <TablixColumns>
+                <TablixColumn>
+                  <Width>47.625mm</Width>
+                </TablixColumn>
                 <TablixColumn>
                   <Width>47.625mm</Width>
                 </TablixColumn>
@@ -5979,6 +6500,57 @@ ORDER BY
                     </TablixCell>
                     <TablixCell>
                       <CellContents>
+                        <Textbox Name="TextboxReviewerHdr_Tablix_ds_DueIn6to9Days">
+                          <CanGrow>true</CanGrow>
+                          <UserSort>
+                            <SortExpression>=Fields!vBallInCourt_Reviewer_20_Due_20_Date.Value</SortExpression>
+                          </UserSort>
+                          <KeepTogether>true</KeepTogether>
+                          <Paragraphs>
+                            <Paragraph>
+                              <TextRuns>
+                                <TextRun>
+                                  <Value>Reviewer's Due Date</Value>
+                                  <Style>
+                                    <FontFamily>Segoe UI Semibold</FontFamily>
+                                    <FontSize>11pt</FontSize>
+                                    <Format>d</Format>
+                                    <Color>=Variables!Style_FontColorHeaders.Value</Color>
+                                  </Style>
+                                </TextRun>
+                              </TextRuns>
+                              <Style><TextAlign>Center</TextAlign></Style>
+                            </Paragraph>
+                          </Paragraphs>
+                          <Style>
+                            <Border>
+                              <Style>None</Style>
+                            </Border>
+                            <TopBorder>
+                              <Style>None</Style>
+                            </TopBorder>
+                            <BottomBorder>
+                              <Color>=Variables!Style_OutlineColor.Value</Color>
+                              <Style>=If(Variables!Style_HeaderEnableBorderBottom.Value = "true", "Solid", "None")</Style>
+                              <Width>=If(Variables!Style_HeaderBorderBottomWeight.Value = "",             Variables!Style_GridHorizontalWeight.Value, Variables!Style_HeaderBorderBottomWeight.Value)</Width>
+                            </BottomBorder>
+                            <LeftBorder>
+                              <Color>=Variables!Style_GridColor.Value</Color>
+                              <Style>=If(Variables!Style_GridVerticalEnabledTable.Value = "true", "Solid", "None")</Style>
+                              <Width>=Variables!Style_GridVerticalWeight.Value</Width>
+                            </LeftBorder>
+                            <BackgroundColor>=Variables!Style_BackColorHeaders.Value</BackgroundColor>
+                            <FontFamily />
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>2pt</PaddingRight>
+                            <PaddingTop>4pt</PaddingTop>
+                            <PaddingBottom>2pt</PaddingBottom>
+                          <TextAlign>Center</TextAlign></Style>
+                        </Textbox>
+                      </CellContents>
+                    </TablixCell>
+                    <TablixCell>
+                      <CellContents>
                         <Textbox Name="Textbox27b18dbb3d2b4d549addb1e645aa0a16_069">
                           <CanGrow>true</CanGrow>
                           <UserSort>
@@ -6140,7 +6712,7 @@ ORDER BY
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>vDaystoDueDate</Value>
+                                  <Value>Days to Due Date</Value>
                                   <Style>
                                     <FontFamily>Segoe UI Semibold</FontFamily>
                                     <FontSize>11pt</FontSize>
@@ -6422,6 +6994,53 @@ ORDER BY
                     </TablixCell>
                     <TablixCell>
                       <CellContents>
+                        <Textbox Name="TextboxReviewerVal_Tablix_ds_DueIn6to9Days">
+                          <CanGrow>true</CanGrow>
+                          <KeepTogether>true</KeepTogether>
+                          <Paragraphs>
+                            <Paragraph>
+                              <TextRuns>
+                                <TextRun>
+                                  <Value>=Fields!vBallInCourt_Reviewer_20_Due_20_Date.Value</Value>
+                                  <Style>
+                                    <Format>d</Format>
+                                    <Color>=If(RowNumber(Nothing) Mod 2 &lt;&gt; 0, Variables!Style_FontColorValues1.Value, Variables!Style_FontColorValues2.Value)</Color>
+                                  </Style>
+                                </TextRun>
+                              </TextRuns>
+                              <Style><TextAlign>Center</TextAlign></Style>
+                            </Paragraph>
+                          </Paragraphs>
+                          <DataElementName>vBallInCourt_Reviewer_Due_Date</DataElementName>
+                          <Style>
+                            <Border>
+                              <Style>None</Style>
+                            </Border>
+                            <TopBorder>
+                              <Style>None</Style>
+                            </TopBorder>
+                            <BottomBorder>
+                              <Color>=Variables!Style_GridColor.Value</Color>
+                              <Style>=If(Variables!Style_GridHorizontalEnabledTable.Value = "true", "Solid", "None")</Style>
+                              <Width>=Variables!Style_GridHorizontalWeight.Value</Width>
+                            </BottomBorder>
+                            <LeftBorder>
+                              <Color>=Variables!Style_GridColor.Value</Color>
+                              <Style>=If(Variables!Style_GridVerticalEnabledTable.Value = "true", "Solid", "None")</Style>
+                              <Width>=Variables!Style_GridVerticalWeight.Value</Width>
+                            </LeftBorder>
+                            <BackgroundColor>=If(RowNumber(Nothing) Mod 2 &lt;&gt; 0, Variables!Style_BackColorValues1.Value, Variables!Style_BackColorValues2.Value)</BackgroundColor>
+                            <FontFamily />
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>5pt</PaddingRight>
+                            <PaddingTop>=Variables!Style_RowPadding.Value</PaddingTop>
+                            <PaddingBottom>=Variables!Style_RowPadding.Value</PaddingBottom>
+                          <TextAlign>Center</TextAlign></Style>
+                        </Textbox>
+                      </CellContents>
+                    </TablixCell>
+                    <TablixCell>
+                      <CellContents>
                         <Textbox Name="Textbox2e23500736ac4addb41202273e6d6eb4_077">
                           <CanGrow>true</CanGrow>
                           <KeepTogether>true</KeepTogether>
@@ -6667,6 +7286,7 @@ ORDER BY
                 <TablixMember />
                 <TablixMember />
                 <TablixMember />
+                <TablixMember />
               <TablixMember /></TablixMembers>
             </TablixColumnHierarchy>
             <TablixRowHierarchy>
@@ -6739,6 +7359,9 @@ ORDER BY
           <Tablix Name="Tablix_ds_DueIn10PlusDays">
             <TablixBody>
               <TablixColumns>
+                <TablixColumn>
+                  <Width>47.625mm</Width>
+                </TablixColumn>
                 <TablixColumn>
                   <Width>47.625mm</Width>
                 </TablixColumn>
@@ -6971,6 +7594,57 @@ ORDER BY
                     </TablixCell>
                     <TablixCell>
                       <CellContents>
+                        <Textbox Name="TextboxReviewerHdr_Tablix_ds_DueIn10PlusDays">
+                          <CanGrow>true</CanGrow>
+                          <UserSort>
+                            <SortExpression>=Fields!vBallInCourt_Reviewer_20_Due_20_Date.Value</SortExpression>
+                          </UserSort>
+                          <KeepTogether>true</KeepTogether>
+                          <Paragraphs>
+                            <Paragraph>
+                              <TextRuns>
+                                <TextRun>
+                                  <Value>Reviewer's Due Date</Value>
+                                  <Style>
+                                    <FontFamily>Segoe UI Semibold</FontFamily>
+                                    <FontSize>11pt</FontSize>
+                                    <Format>d</Format>
+                                    <Color>=Variables!Style_FontColorHeaders.Value</Color>
+                                  </Style>
+                                </TextRun>
+                              </TextRuns>
+                              <Style><TextAlign>Center</TextAlign></Style>
+                            </Paragraph>
+                          </Paragraphs>
+                          <Style>
+                            <Border>
+                              <Style>None</Style>
+                            </Border>
+                            <TopBorder>
+                              <Style>None</Style>
+                            </TopBorder>
+                            <BottomBorder>
+                              <Color>=Variables!Style_OutlineColor.Value</Color>
+                              <Style>=If(Variables!Style_HeaderEnableBorderBottom.Value = "true", "Solid", "None")</Style>
+                              <Width>=If(Variables!Style_HeaderBorderBottomWeight.Value = "",             Variables!Style_GridHorizontalWeight.Value, Variables!Style_HeaderBorderBottomWeight.Value)</Width>
+                            </BottomBorder>
+                            <LeftBorder>
+                              <Color>=Variables!Style_GridColor.Value</Color>
+                              <Style>=If(Variables!Style_GridVerticalEnabledTable.Value = "true", "Solid", "None")</Style>
+                              <Width>=Variables!Style_GridVerticalWeight.Value</Width>
+                            </LeftBorder>
+                            <BackgroundColor>=Variables!Style_BackColorHeaders.Value</BackgroundColor>
+                            <FontFamily />
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>2pt</PaddingRight>
+                            <PaddingTop>4pt</PaddingTop>
+                            <PaddingBottom>2pt</PaddingBottom>
+                          <TextAlign>Center</TextAlign></Style>
+                        </Textbox>
+                      </CellContents>
+                    </TablixCell>
+                    <TablixCell>
+                      <CellContents>
                         <Textbox Name="Textbox27b18dbb3d2b4d549addb1e645aa0a16_085">
                           <CanGrow>true</CanGrow>
                           <UserSort>
@@ -7132,7 +7806,7 @@ ORDER BY
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>vDaystoDueDate</Value>
+                                  <Value>Days to Due Date</Value>
                                   <Style>
                                     <FontFamily>Segoe UI Semibold</FontFamily>
                                     <FontSize>11pt</FontSize>
@@ -7414,6 +8088,53 @@ ORDER BY
                     </TablixCell>
                     <TablixCell>
                       <CellContents>
+                        <Textbox Name="TextboxReviewerVal_Tablix_ds_DueIn10PlusDays">
+                          <CanGrow>true</CanGrow>
+                          <KeepTogether>true</KeepTogether>
+                          <Paragraphs>
+                            <Paragraph>
+                              <TextRuns>
+                                <TextRun>
+                                  <Value>=Fields!vBallInCourt_Reviewer_20_Due_20_Date.Value</Value>
+                                  <Style>
+                                    <Format>d</Format>
+                                    <Color>=If(RowNumber(Nothing) Mod 2 &lt;&gt; 0, Variables!Style_FontColorValues1.Value, Variables!Style_FontColorValues2.Value)</Color>
+                                  </Style>
+                                </TextRun>
+                              </TextRuns>
+                              <Style><TextAlign>Center</TextAlign></Style>
+                            </Paragraph>
+                          </Paragraphs>
+                          <DataElementName>vBallInCourt_Reviewer_Due_Date</DataElementName>
+                          <Style>
+                            <Border>
+                              <Style>None</Style>
+                            </Border>
+                            <TopBorder>
+                              <Style>None</Style>
+                            </TopBorder>
+                            <BottomBorder>
+                              <Color>=Variables!Style_GridColor.Value</Color>
+                              <Style>=If(Variables!Style_GridHorizontalEnabledTable.Value = "true", "Solid", "None")</Style>
+                              <Width>=Variables!Style_GridHorizontalWeight.Value</Width>
+                            </BottomBorder>
+                            <LeftBorder>
+                              <Color>=Variables!Style_GridColor.Value</Color>
+                              <Style>=If(Variables!Style_GridVerticalEnabledTable.Value = "true", "Solid", "None")</Style>
+                              <Width>=Variables!Style_GridVerticalWeight.Value</Width>
+                            </LeftBorder>
+                            <BackgroundColor>=If(RowNumber(Nothing) Mod 2 &lt;&gt; 0, Variables!Style_BackColorValues1.Value, Variables!Style_BackColorValues2.Value)</BackgroundColor>
+                            <FontFamily />
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>5pt</PaddingRight>
+                            <PaddingTop>=Variables!Style_RowPadding.Value</PaddingTop>
+                            <PaddingBottom>=Variables!Style_RowPadding.Value</PaddingBottom>
+                          <TextAlign>Center</TextAlign></Style>
+                        </Textbox>
+                      </CellContents>
+                    </TablixCell>
+                    <TablixCell>
+                      <CellContents>
                         <Textbox Name="Textbox2e23500736ac4addb41202273e6d6eb4_093">
                           <CanGrow>true</CanGrow>
                           <KeepTogether>true</KeepTogether>
@@ -7659,6 +8380,7 @@ ORDER BY
                 <TablixMember />
                 <TablixMember />
                 <TablixMember />
+                <TablixMember />
               <TablixMember /></TablixMembers>
             </TablixColumnHierarchy>
             <TablixRowHierarchy>
@@ -7731,6 +8453,9 @@ ORDER BY
           <Tablix Name="Tablix_ds_Draft">
             <TablixBody>
               <TablixColumns>
+                <TablixColumn>
+                  <Width>47.625mm</Width>
+                </TablixColumn>
                 <TablixColumn>
                   <Width>47.625mm</Width>
                 </TablixColumn>
@@ -7963,6 +8688,57 @@ ORDER BY
                     </TablixCell>
                     <TablixCell>
                       <CellContents>
+                        <Textbox Name="TextboxReviewerHdr_Tablix_ds_Draft">
+                          <CanGrow>true</CanGrow>
+                          <UserSort>
+                            <SortExpression>=Fields!vBallInCourt_Reviewer_20_Due_20_Date.Value</SortExpression>
+                          </UserSort>
+                          <KeepTogether>true</KeepTogether>
+                          <Paragraphs>
+                            <Paragraph>
+                              <TextRuns>
+                                <TextRun>
+                                  <Value>Reviewer's Due Date</Value>
+                                  <Style>
+                                    <FontFamily>Segoe UI Semibold</FontFamily>
+                                    <FontSize>11pt</FontSize>
+                                    <Format>d</Format>
+                                    <Color>=Variables!Style_FontColorHeaders.Value</Color>
+                                  </Style>
+                                </TextRun>
+                              </TextRuns>
+                              <Style><TextAlign>Center</TextAlign></Style>
+                            </Paragraph>
+                          </Paragraphs>
+                          <Style>
+                            <Border>
+                              <Style>None</Style>
+                            </Border>
+                            <TopBorder>
+                              <Style>None</Style>
+                            </TopBorder>
+                            <BottomBorder>
+                              <Color>=Variables!Style_OutlineColor.Value</Color>
+                              <Style>=If(Variables!Style_HeaderEnableBorderBottom.Value = "true", "Solid", "None")</Style>
+                              <Width>=If(Variables!Style_HeaderBorderBottomWeight.Value = "",             Variables!Style_GridHorizontalWeight.Value, Variables!Style_HeaderBorderBottomWeight.Value)</Width>
+                            </BottomBorder>
+                            <LeftBorder>
+                              <Color>=Variables!Style_GridColor.Value</Color>
+                              <Style>=If(Variables!Style_GridVerticalEnabledTable.Value = "true", "Solid", "None")</Style>
+                              <Width>=Variables!Style_GridVerticalWeight.Value</Width>
+                            </LeftBorder>
+                            <BackgroundColor>=Variables!Style_BackColorHeaders.Value</BackgroundColor>
+                            <FontFamily />
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>2pt</PaddingRight>
+                            <PaddingTop>4pt</PaddingTop>
+                            <PaddingBottom>2pt</PaddingBottom>
+                          <TextAlign>Center</TextAlign></Style>
+                        </Textbox>
+                      </CellContents>
+                    </TablixCell>
+                    <TablixCell>
+                      <CellContents>
                         <Textbox Name="Textbox27b18dbb3d2b4d549addb1e645aa0a16_085_005">
                           <CanGrow>true</CanGrow>
                           <UserSort>
@@ -8124,7 +8900,7 @@ ORDER BY
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>vDaystoDueDate</Value>
+                                  <Value>Days to Due Date</Value>
                                   <Style>
                                     <FontFamily>Segoe UI Semibold</FontFamily>
                                     <FontSize>11pt</FontSize>
@@ -8406,6 +9182,53 @@ ORDER BY
                     </TablixCell>
                     <TablixCell>
                       <CellContents>
+                        <Textbox Name="TextboxReviewerVal_Tablix_ds_Draft">
+                          <CanGrow>true</CanGrow>
+                          <KeepTogether>true</KeepTogether>
+                          <Paragraphs>
+                            <Paragraph>
+                              <TextRuns>
+                                <TextRun>
+                                  <Value>=Fields!vBallInCourt_Reviewer_20_Due_20_Date.Value</Value>
+                                  <Style>
+                                    <Format>d</Format>
+                                    <Color>=If(RowNumber(Nothing) Mod 2 &lt;&gt; 0, Variables!Style_FontColorValues1.Value, Variables!Style_FontColorValues2.Value)</Color>
+                                  </Style>
+                                </TextRun>
+                              </TextRuns>
+                              <Style><TextAlign>Center</TextAlign></Style>
+                            </Paragraph>
+                          </Paragraphs>
+                          <DataElementName>vBallInCourt_Reviewer_Due_Date</DataElementName>
+                          <Style>
+                            <Border>
+                              <Style>None</Style>
+                            </Border>
+                            <TopBorder>
+                              <Style>None</Style>
+                            </TopBorder>
+                            <BottomBorder>
+                              <Color>=Variables!Style_GridColor.Value</Color>
+                              <Style>=If(Variables!Style_GridHorizontalEnabledTable.Value = "true", "Solid", "None")</Style>
+                              <Width>=Variables!Style_GridHorizontalWeight.Value</Width>
+                            </BottomBorder>
+                            <LeftBorder>
+                              <Color>=Variables!Style_GridColor.Value</Color>
+                              <Style>=If(Variables!Style_GridVerticalEnabledTable.Value = "true", "Solid", "None")</Style>
+                              <Width>=Variables!Style_GridVerticalWeight.Value</Width>
+                            </LeftBorder>
+                            <BackgroundColor>=If(RowNumber(Nothing) Mod 2 &lt;&gt; 0, Variables!Style_BackColorValues1.Value, Variables!Style_BackColorValues2.Value)</BackgroundColor>
+                            <FontFamily />
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>5pt</PaddingRight>
+                            <PaddingTop>=Variables!Style_RowPadding.Value</PaddingTop>
+                            <PaddingBottom>=Variables!Style_RowPadding.Value</PaddingBottom>
+                          <TextAlign>Center</TextAlign></Style>
+                        </Textbox>
+                      </CellContents>
+                    </TablixCell>
+                    <TablixCell>
+                      <CellContents>
                         <Textbox Name="Textbox2e23500736ac4addb41202273e6d6eb4_093_014">
                           <CanGrow>true</CanGrow>
                           <KeepTogether>true</KeepTogether>
@@ -8643,6 +9466,7 @@ ORDER BY
             </TablixBody>
             <TablixColumnHierarchy>
               <TablixMembers>
+                <TablixMember />
                 <TablixMember />
                 <TablixMember />
                 <TablixMember />
